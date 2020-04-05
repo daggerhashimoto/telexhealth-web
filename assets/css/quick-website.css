@@ -3270,15 +3270,15 @@ fieldset:disabled a.btn
 .btn-primary
 {
     color: #fff;
-    border-color: #008aff;
-    background-color: #008aff;
+    border-color: #60b0f4;
+    background-color: #60b0f4;
     box-shadow: none;
 }
 .btn-primary:hover
 {
     color: #fff;
-    border-color: #006ecc; 
-    background-color: #0075d9;
+    border-color: #00b4ff; 
+    background-color: #00b4ff;
 }
 .btn-primary:focus,
 .btn-primary.focus
@@ -8625,7 +8625,7 @@ button.bg-light:focus
 
 .bg-dark
 {
-    background-color: #171347 !important;
+    background-color: #00b4ff !important;
 }
 
 a.bg-dark:hover,
@@ -14892,7 +14892,7 @@ button.bg-white:focus
 
 .text-primary
 {
-    color: #008aff !important;
+    color: #00b4ff !important;
 }
 
 a.text-primary:hover,
@@ -15899,7 +15899,7 @@ button.bg-gray-dark:focus
 
 .bg-section-dark
 {
-    background-color: #0e0b2b !important;
+    background-color: #00b4ff !important;
 }
 
 .bg-brand-facebook
@@ -21815,18 +21815,18 @@ svg
 
 .footer-light .list-unstyled li a
 {
-    color: #a0aec0;
+    color: #fff;
 }
 .footer-light .list-unstyled li a:hover
 {
     text-decoration: underline; 
 
-    color: #4a5568;
+    color: #fff;
 }
 
 .footer-light .copyright a
 {
-    color: #4a5568;
+    color: #fff;
 }
 .footer-light .copyright a:hover
 {
@@ -21835,7 +21835,7 @@ svg
 
 .footer-dark p
 {
-    color: rgba(255, 255, 255, .8);
+    color:#fff;
 }
 
 .footer-dark .heading
@@ -21845,16 +21845,16 @@ svg
 
 .footer-dark .list-unstyled li a
 {
-    color: rgba(255, 255, 255, .8);
+    color: #fff;
 }
 .footer-dark .list-unstyled li a:hover
 {
-    color: rgba(255, 255, 255, .9);
+    color: #fff;
 }
 
 .footer-dark .copyright a
 {
-    color: rgba(255, 255, 255, .9);
+    color: #fff;
 }
 .footer-dark .copyright a:hover
 {
@@ -21863,7 +21863,7 @@ svg
 
 .footer-dark
 {
-    color: #a0aec0; 
+    color: #fff; 
     background-color: #273444;
 }
 .footer-dark .heading
@@ -21874,7 +21874,7 @@ svg
 .footer-dark .list-unstyled li a,
 .footer-dark .footer-link
 {
-    color: #a0aec0;
+    color:#fff;
 }
 .footer-dark .nav .nav-item .nav-link:hover,
 .footer-dark .list-unstyled li a:hover,
@@ -21884,7 +21884,7 @@ svg
 }
 .footer-dark hr
 {
-    border-color: rgba(216, 203, 187, .1);
+    border-color: #fff;
 }
 
 .form-control:focus:-ms-input-placeholder
