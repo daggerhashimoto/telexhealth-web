@@ -8625,7 +8625,7 @@ button.bg-light:focus
 
 .bg-dark
 {
-    background-color: #00b4ff !important;
+    background-color: #5d00ff !important;
 }
 
 a.bg-dark:hover,
@@ -14892,7 +14892,7 @@ button.bg-white:focus
 
 .text-primary
 {
-    color: #00b4ff !important;
+    color: #5d00ff !important;
 }
 
 a.text-primary:hover,
@@ -21864,7 +21864,7 @@ svg
 .footer-dark
 {
     color: #fff; 
-    background-color: #273444;
+    background-color: #5d00ff;
 }
 .footer-dark .heading
 {
